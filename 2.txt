@@ -1,0 +1,2 @@
+vless://96491daf-77fd-40ce-808c-77278c1d229a@cbsdygcyf.herokuapp.com:443?type=ws&security=tls&path=%2Fe02d4501-5de9-4969-9ea0-6a21c96abba1&host&sni=cbsdygcyf.herokuapp.com&alpn=#vless%40cbsdygcyf.herokuapp.com%3A443
+vless://ecdcb4f3-3e83-4fe0-acf0-c91f28ad6267@fyd4vfvhdfr.herokuapp.com:443?type=ws&security=tls&path=%2F7d1095c5-58f3-468e-bf4d-71f06844a03a&host&sni=fyd4vfvhdfr.herokuapp.com&alpn=#vless%40fyd4vfvhdfr.herokuapp.com%3A443
